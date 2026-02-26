@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Luis 👋  
 
-<!--
-**lfrozasv/lfrozasv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student of Economics and International Business with a specialization in Applied Data Science.  
+I enjoy working with data to understand real-world economic problems and turn numbers into useful insights.
 
-Here are some ideas to get you started:
+My main interests are:
+- Data analysis and visualization  
+- Applied econometrics  
+- Evidence-based decision making  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you'll find academic and personal projects related to economic analysis, dashboards, and data-driven research.  
+Some projects are serious, some are experimental, and all of them are part of my learning process.
+
+I'm especially interested in how data can help explain social and economic issues in a simple and practical way.  
+Always learning, always curious 📊📈

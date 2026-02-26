@@ -84,12 +84,7 @@ if __name__ == '__main__':
 <a href="https://colab.research.google.com" target="_blank">
   <img src="https://cdn.simpleicons.org/googlecolab" alt="Google Colab" width="40" height="40"/>
 </a>
-<a href="https://powerbi.microsoft.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" width="40" height="40"/>
-</a>
-<a href="https://www.eviews.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/eviews" alt="EViews" width="40" height="40"/>
-</a>
+
 <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" width="40" height="40"/>
 </a>

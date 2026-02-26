@@ -7,51 +7,64 @@
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Economics+Student;Specialization+in+Data+Science;Dedicated;Graphics%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
-
 <hr>
 
-<br/>
-<br/>
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-I'm a student of Economics and International Business with a specialization in Applied Data Science.  
-I enjoy working with data to understand real-world economic problems and turn numbers into useful insights.
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p> 
 
-My main interests are:
-- Data analysis and visualization  
-- Applied econometrics  
-- Evidence-based decision making  
+## 💼 Professional Profile
+🎓 I'm a student of **Economics and International Business** with a specialization in **Applied Data Science**.  
+📊 I enjoy working with data to understand real-world economic problems and turn numbers into useful insights.
 
-Here you'll find academic and personal projects related to economic analysis, dashboards, and data-driven research.  
-Some projects are serious, some are experimental, and all of them are part of my learning process.
+### 🔍 My main interests:
+- 📈 **Data analysis & visualization**  
+- 📐 **Applied econometrics**  
+- 🧠 **Evidence-based decision making**
 
-I'm especially interested in how data can help explain social and economic issues in a simple and practical way.  
-Always learning, always curious 📊📈
+Here you'll find 📂 **academic and personal projects** related to:
+- Economic analysis 🏦  
+- Dashboards & visual reports 📊  
+- Data-driven research 🔎  
 
-<br/>
-<br/>
+Some projects are serious 📑, some are experimental 🧪, and all of them are part of my learning process 🚀.
 
-
-
+🌍 I'm especially interested in how data can help explain **social and economic issues** in a simple and practical way.  
+✨ Always learning, always curious 📊📈
 
 
+
+
+## 🌱 Beyond Data
 
 
 ```python
-class AbhigyanTrips():
-    
-  def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
-  
-  def __str__(self):
-    return self.name
+class Luis:
 
-if __name__ == '__main__':
-    me = AbhigyanTrips()
+    def __init__(self):
+        self.name = "Luis Rozas"
+        self.personality = ["curious", "creative", "disciplined"]
+        self.values = ["honesty", "effort", "constant learning"]
+        self.ambitions = [
+            "build meaningful projects",
+            "use data to help people make better decisions",
+            "keep improving every day"
+        ]
+        self.likes = ["learning new things", "visualizing ideas", "good coffee ☕"]
+        self.mindset = "progress over perfection"
+
+    def introduce(self):
+        return f"""
+Hi, I'm {self.name} 👋
+
+I'm someone who believes in learning by doing and improving step by step.
+I like creating things, exploring ideas, and turning curiosity into projects.
+
+My mindset: {self.mindset}.
+"""
+
+if __name__ == "__main__":
+    me = Luis()
+    print(me.introduce())
 ```
 
 <h3 align="center">Connect with me:</h3>
